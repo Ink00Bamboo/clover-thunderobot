@@ -20,8 +20,6 @@
 				<false/>
 				<key>FixRTC</key>
 				<false/>
-				<key>FixShutdown</key>
-				<true/>
 				<key>FixTMR</key>
 				<false/>
 			</dict>
@@ -236,12 +234,6 @@
 			<key>NoOemTableId</key>
 			<true/>
 		</dict>
-		<key>SortedOrder</key>
-		<array>
-			<string>SSDT-Disable-DGPU.aml</string>
-			<string>SSDT-UIAC-ALL.aml</string>
-			<string>SSDT-PNLF.aml</string>
-		</array>
 	</dict>
 	<key>Boot</key>
 	<dict>
